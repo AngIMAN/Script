@@ -23,7 +23,7 @@ mv bot/* /usr/bin
 chmod +x /usr/bin/*
 rm -rf bot.zip
 clear
-wget https://raw.githubusercontent.com/Tikusmerdeka/Tikus/main/limit/kyt.zip
+wget https://raw.githubusercontent.com/AngIMAN/Script/main/limit/kyt.zip
 clear
 unzip kyt.zip
 clear
