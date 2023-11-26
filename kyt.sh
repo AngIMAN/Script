@@ -15,7 +15,7 @@ NC='\e[0m'
 apt update && apt upgrade
 apt install python3 python3-pip git
 cd /usr/bin
-wget https://raw.githubusercontent.com/Tikusmerdeka/JANCOK/main/limit/bot.zip
+wget https://raw.githubusercontent.com/AngIMAN/Script/main/limit/bot.zip
 clear
 unzip bot.zip
 clear
